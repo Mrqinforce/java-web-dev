@@ -9,3 +9,5 @@ https://github.com/Mrqinforce/java-web-dev/blob/master/book-online%E7%99%BB%E5%B
 登录成功跳回首页，顶部显示用户头像
 
 点击用户头像可以进入用户个人信息页面，少量信息为后台动态数据，其余是为了填充页面写的静态页面
+https://github.com/Mrqinforce/java-web-dev/blob/master/%E4%B8%AA%E4%BA%BA%E8%AF%A6%E7%BB%86%E4%B8%BB%E9%A1%B5.png
+点击图书可以进入图书详细页面，显示图书的信息
